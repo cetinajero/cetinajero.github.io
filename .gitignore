@@ -1,3 +1,7 @@
+# jekyll
 _site
 .sass-cache
 .jekyll-metadata
+
+# yarn
+node_modules

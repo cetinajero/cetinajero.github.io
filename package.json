@@ -1,0 +1,9 @@
+{
+  "name": "cetinajero.github.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "git@github.com:cetinajero/cetinajero.github.io.git",
+  "author": "<cetinajero@gmail.com>",
+  "license": "MIT"
+}
