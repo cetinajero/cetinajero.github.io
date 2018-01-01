@@ -36,6 +36,8 @@ include:
 
 # Exclude from processing.
 exclude:
+  - LICENSE
+  - README.md
   - Gemfile
   - Gemfile.lock
   - Rakefile
