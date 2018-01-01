@@ -3,15 +3,15 @@ My personal website
 
 ## Table of contents
 
-  1. [Setup the source branch](#1-setup-the-source-branch)
-  2. [Setup the master branch](#2-setup-the-master-branch)
-  3. [Checkout the master branch in *_site* directory](#3-checkout-the-master-branch-in-_site-directory)
-  4. [Disable jekyll build on github](#4-disable-jekyll-build-on-github)
-  5. [Setup yarn](#5-Setup-yarn)
-  6. [The deploy task](#6-the-deploy-task)
-  7. [Conclusion](#7-conclusion)
-  8. [License](#8-license)
-  9. [Credits](#9-credits)
+  1. [Setup the source branch](#setup-the-source-branch)
+  2. [Setup the master branch](#setup-the-master-branch)
+  3. [Checkout the master branch in *_site* directory](#checkout-the-master-branch-in-_site-directory)
+  4. [Disable jekyll build on github](#disable-jekyll-build-on-github)
+  5. [Setup yarn](#setup-yarn)
+  6. [The deploy task](#the-deploy-task)
+  7. [Conclusion](#conclusion)
+  8. [License](#license)
+  9. [Credits](#credits)
 
 ## Setup the source branch
 
