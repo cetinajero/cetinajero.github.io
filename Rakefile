@@ -1,5 +1,16 @@
 require "rubygems"
 
+desc "Build website"
+task :build do
+  puts "## Running: bundle exec jekyll build"
+  system "bundle exec jekyll build"
+  cd "_site" do
+    puts "## Showing changes in _site"
+    system "git status"
+    puts "## Build Complete!"
+  end
+end
+
 desc "Run local server"
 task :serve do
   begin
@@ -50,6 +61,7 @@ def alias_task(tasks)
 end
 
 alias_task [
+    [:b, :build],
     [:s, :serve],
     [:d, :deploy],
     [:rs, 'reset:soft'],
