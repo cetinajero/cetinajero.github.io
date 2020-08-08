@@ -9,6 +9,8 @@ updates:
       timezone: "America/Chihuahua"
     open-pull-requests-limit: 5
     reviewers: ["cetinajero"]
+    allow:
+      - dependency-name: "jekyll"
     labels:
       - dependencies
       - ruby
