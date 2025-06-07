@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<script type="text/javascript">
+    window.location.href = "https://cetinajero.github.io/recipes/"
+</script>
